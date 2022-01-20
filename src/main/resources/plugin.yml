@@ -1,0 +1,8 @@
+main: com.github.idmilly.control.ControlPlugin
+name: control
+version: 1.0
+api-version: 1.18
+author: iDmilly
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.0
+  - org.jetbrains.kotlin:kotlin-reflect:1.6.0

@@ -1,0 +1,14 @@
+event:
+  blockPlace: false
+  blockBreak: false
+  playerInteract: false
+  playerMove: false
+  playerPortal: false
+  asyncChat: false
+  inventoryOpen: false
+  playerJoinMessage: false
+  playerQuitMessage: false
+  craftItem: false
+  entityDamage: false
+  entityDamageByEntity: false
+  playerCommandPreprocess: false
